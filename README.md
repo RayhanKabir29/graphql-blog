@@ -1,10 +1,10 @@
 #Blog App
-## requirement
-- user can post
-- user can view post
+## Requirement
+- User can post
+- User can view post
 - Authentication System
 
-## Table 
+## Table :S
 - post
     - id
     - title
@@ -28,3 +28,9 @@
     - createdAt
     - updatedAt
     - userId
+## Technology Used :
+    - graphql
+    - typescript
+    - postgresql
+    - prisma
+    
